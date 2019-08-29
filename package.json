@@ -1,0 +1,22 @@
+{
+  "name": "cloudseeder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "bash ./install.sh",
+    "start": "bash ./run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arshad-Barves/cloudseeder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arshad-Barves/cloudseeder/issues"
+  },
+  "homepage": "https://github.com/Arshad-Barves/cloudseeder#readme",
+  "dependencies": {}
+}
