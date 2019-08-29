@@ -6,7 +6,7 @@ wget $URL -O tcloud.tgz
 
 echo "===== Unarchive App ====="
 mkdir cloudseeder
-tar zxf tcloud.tgz -C tcloud --strip-components 1
+tar zxf tcloud.tgz -C cloudseeder --strip-components 1
 
 echo "===== Install dependencies ====="
 cd cloudseeder
